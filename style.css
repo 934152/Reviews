@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+ header {
+    font-family: 'Chivo Mono', monospace;
+ }
+
+ .card-title {
+    font-family: 'Chivo Mono';
+ }
+
+ #author {
+    font-style: italic;
+ }
